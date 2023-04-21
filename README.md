@@ -1,6 +1,6 @@
 # Module_11_Challenge_web-scraping
 
-- This challenge about  extracting information via both automated browsing with Splinter and HTML parsing with Beautiful Soup
+- This challenge is about  extracting an information via both automated browsing with Splinter and HTML parsing with Beautiful Soup
 - Scraping various types of information. These include HTML tables and recurring elements, like multiple news articles on a webpage.
 
 -- This Challenge consists of two files
